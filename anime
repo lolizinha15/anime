@@ -3,10 +3,15 @@
    <head>
      <meta charset="UTF-8"
      <title>sobre animes</title>
-   </head>
-   
-   <body> 
+     <link rel="stylesheet" href="style.css">
      
+     <style>
+     
+     </style>
+</head>
+
+<body>
+    
   <h1>ANIMES</h1>
 
 <p>Ola meu nome é titi, gosto bastante de animes, e ja vejo faz um bom tempo, e tambem gosto muito da cultura japonesa,
